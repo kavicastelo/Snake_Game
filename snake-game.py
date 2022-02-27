@@ -1,4 +1,4 @@
-#importing libraries
+#!/usr/bin/env python3
 #importing libraries
 import turtle
 import random
